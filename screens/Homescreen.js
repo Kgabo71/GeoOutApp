@@ -9,7 +9,7 @@ import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplet
 import 'react-native-get-random-values';
 
 
-const GOOGLE_API_KEY = 'AIzaSyCIVFLmmuqgqKYYtGjCiJt7J-mxmZyt30A'; 
+const GOOGLE_API_KEY = ''; 
 
 const HomeScreen = () => {
   const [location, setLocation] = useState(null);
